@@ -1,6 +1,4 @@
-// Simple Vector Modificatgion_19.cpp : This file contains the 'main' function. 
 //Program execution begins and ends there.
-// Programmed using Book Code and Sample 03/18/2025
 //Completed by Ayomide Ogunseye May 6, 2025
 
 
